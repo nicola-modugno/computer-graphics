@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (Graphics.vcxproj, LAB_0_3D.vcxproj, LAB_0_3D_cube.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  LAB_01.cpp
+C:\COMPUTERGRAPHICS\LAB_01\Graphics\LAB_01.cpp(83,16): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\COMPUTERGRAPHICS\LAB_01\Graphics\LAB_01.cpp(82,11): warning C4101: 'dist': variabile locale senza riferimenti
+  Graphics.vcxproj -> C:\COMPUTERGRAPHICS\LAB_01\x64\Debug\LAB_1.exe

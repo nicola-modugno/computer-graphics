@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\COMPUTERGRAPHICS\\LAB2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A43410BB-BA36-464F-8DA5-93D70A44213E}|LAB2D\\LAB2D.vcxproj|C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\Gui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A43410BB-BA36-464F-8DA5-93D70A44213E}|LAB2D\\LAB2D.vcxproj|solutionrelative:LAB2D\\Gui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43410BB-BA36-464F-8DA5-93D70A44213E}|LAB2D\\LAB2D.vcxproj|C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\LAB2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A43410BB-BA36-464F-8DA5-93D70A44213E}|LAB2D\\LAB2D.vcxproj|solutionrelative:LAB2D\\LAB2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43410BB-BA36-464F-8DA5-93D70A44213E}|LAB2D\\LAB2D.vcxproj|C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\init_geometrie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A43410BB-BA36-464F-8DA5-93D70A44213E}|LAB2D\\LAB2D.vcxproj|solutionrelative:LAB2D\\init_geometrie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43410BB-BA36-464F-8DA5-93D70A44213E}|LAB2D\\LAB2D.vcxproj|C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\gestione_callback.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A43410BB-BA36-464F-8DA5-93D70A44213E}|LAB2D\\LAB2D.vcxproj|solutionrelative:LAB2D\\gestione_callback.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB2D.cpp",
+              "DocumentMoniker": "C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\LAB2D.cpp",
+              "RelativeDocumentMoniker": "LAB2D\\LAB2D.cpp",
+              "ToolTip": "C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\LAB2D.cpp",
+              "RelativeToolTip": "LAB2D\\LAB2D.cpp",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAmwN8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T16:12:59.681Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gui.cpp",
+              "DocumentMoniker": "C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\Gui.cpp",
+              "RelativeDocumentMoniker": "LAB2D\\Gui.cpp",
+              "ToolTip": "C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\Gui.cpp",
+              "RelativeToolTip": "LAB2D\\Gui.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T16:26:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "init_geometrie.cpp",
+              "DocumentMoniker": "C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\init_geometrie.cpp",
+              "RelativeDocumentMoniker": "LAB2D\\init_geometrie.cpp",
+              "ToolTip": "C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\init_geometrie.cpp",
+              "RelativeToolTip": "LAB2D\\init_geometrie.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T15:55:55.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gestione_callback.cpp",
+              "DocumentMoniker": "C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\gestione_callback.cpp",
+              "RelativeDocumentMoniker": "LAB2D\\gestione_callback.cpp",
+              "ToolTip": "C:\\COMPUTERGRAPHICS\\LAB2D\\LAB2D\\gestione_callback.cpp",
+              "RelativeToolTip": "LAB2D\\gestione_callback.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T16:15:21.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
