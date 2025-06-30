@@ -7,9 +7,7 @@ Raccolta di laboratori realizzati per l’esame di **Computer Graphics**.
 ## 🎞️ Gallery dei laboratori
 
 ### LAB_01 – Disegno di curve di Bézier
-<p align="left">
-  <img src="./Blobs/LAB_01_catmull-rom-new.png" alt="Lab01-preview-1" width="45%" />
-</p>
+![LAB_01 – Disegno di curve di Bézier](./Blobs/LAB_01_catmull-rom-new.png)
 
 ---
 
@@ -22,9 +20,7 @@ Raccolta di laboratori realizzati per l’esame di **Computer Graphics**.
 ---
 
 ### 🔷 LAB_04 – Modellazione con Blender 
-<p align="left">
-  <img src="./Blobs/2render.png" alt="Lab04-preview-1" width="45%" />
-</p>
+![LAB_04 – Modellazione con Blender](./Blobs/2render.png)
 
 ---
 
