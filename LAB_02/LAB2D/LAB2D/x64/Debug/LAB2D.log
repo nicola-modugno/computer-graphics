@@ -1,0 +1,10 @@
+﻿  LAB2D.cpp
+C:\COMPUTERGRAPHICS\LAB2D\LAB2D\LAB2D.cpp(152,9): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\COMPUTERGRAPHICS\LAB2D\LAB2D\LAB2D.cpp(155,13): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\COMPUTERGRAPHICS\LAB2D\LAB2D\LAB2D.cpp(216,16): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\COMPUTERGRAPHICS\LAB2D\LAB2D\LAB2D.cpp(392,19): warning C4305: '+=': troncamento da 'double' a 'float'
+C:\COMPUTERGRAPHICS\LAB2D\LAB2D\LAB2D.cpp(483,23): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\COMPUTERGRAPHICS\LAB2D\LAB2D\LAB2D.cpp(528,13): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\COMPUTERGRAPHICS\LAB2D\LAB2D\LAB2D.cpp(533,17): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\COMPUTERGRAPHICS\LAB2D\LAB2D\LAB2D.cpp(685,19): warning C4305: '+=': troncamento da 'double' a 'float'
+  LAB2D.vcxproj -> C:\COMPUTERGRAPHICS\LAB2D\x64\Debug\LAB2D.exe
