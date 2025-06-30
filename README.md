@@ -9,7 +9,6 @@ Raccolta di laboratori realizzati per l’esame di **Computer Graphics**.
 ### LAB_01 – Disegno di curve di Bézier
 
 ![LAB_01 – Disegno di curve di Bézier](./Blobs/LAB_01_catmull-rom-new.png)
-![LAB_02 – ](./Blobs/LAB2-1.png)
 
 ---
 
